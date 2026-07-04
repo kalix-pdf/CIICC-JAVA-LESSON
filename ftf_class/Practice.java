@@ -4,10 +4,6 @@ import java.text.DecimalFormat;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-//class Student {
-//
-//}
-
 public class Practice {
     public static void main() {
         Scanner input = new Scanner(System.in);
